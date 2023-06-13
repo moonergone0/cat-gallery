@@ -13,7 +13,7 @@ Responsive design: The gallery adapts to different screen sizes, providing an op
 Hover effect: When hovering over the cat photos, they scale up slightly, creating an interactive and engaging user experience.
 
 Getting Started
-Clone the repository: git clone https://github.com/your-username/cat-gallery.git
+Clone the repository: git clone https://github.com/moonergone0/cat-gallery
 Open the index.html file in your web browser.
 Usage
 Feel free to use this project as a template or starting point for your own cat-related websites or photo galleries. Replace the images with your own cat photos or modify the styles to match your preferences.
